@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "WebFetch(domain:part-search-pro.vercel.app)"
-    ]
-  }
-}
